@@ -156,13 +156,13 @@ footer {
 
 /* 3rd button (GitHub) */
 .ld-mt-32 div:nth-child(3) .ld-custom-button {
-    background: #171515;
+    background: #262626;
     color: white;
     box-shadow: inset -4px -4px 0px 0px #111111;
 }
 
 .ld-mt-32 div:nth-child(3) .ld-custom-button:hover, .ld-mt-32 div:nth-child(3) .ld-custom-button:focus {
-    background: #141414;
+    background: #171515;
     box-shadow: inset -6px -6px 0px 0px #111111;
 }
 
@@ -172,13 +172,13 @@ footer {
 
 /* 4th button (LinkedIn) */
 .ld-mt-32 div:nth-child(4) .ld-custom-button {
-    background: #0077B5;
+    background: #2d7faa;
     color: white;
     box-shadow: inset -4px -4px 0px 0px #004366;
 }
 
 .ld-mt-32 div:nth-child(4) .ld-custom-button:hover, .ld-mt-32 div:nth-child(4) .ld-custom-button:focus {
-    background: #016092;
+    background: #0077B5;
     box-shadow: inset -6px -6px 0px 0px #004366;
 }
 
