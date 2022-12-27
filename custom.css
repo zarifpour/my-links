@@ -61,8 +61,7 @@ footer {
     text-decoration: none;
     color: black;
     border-radius: 0;
-    font-family: Rockwell, cursive;
-    font-family: 'Press Start 2P', cursive;
+    font-family: Press Start 2P, cursive;
 }
 
 .ld-custom-button:hover, .ld-custom-button:focus {
