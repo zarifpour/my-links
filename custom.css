@@ -46,6 +46,9 @@ footer {
     background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
     transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
     background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99); */
+    -webkit-transition: none;
+    -webkit-transition: none;
+    transition: none;
     background: #F6EFC0;
     box-shadow: inset -4px -4px 0px 0px #b79872;
     display: inline-block;
