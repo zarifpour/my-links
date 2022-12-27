@@ -74,6 +74,11 @@ footer {
     overflow: visible;
     margin-bottom: 26px;
     border-radius: 0;
+    -webkit-user-drag: none;
+    -khtml-user-drag: none;
+    -moz-user-drag: none;
+    -o-user-drag: none;
+    user-drag: none;
 } 
 
 .ld-custom-button-container:hover {
