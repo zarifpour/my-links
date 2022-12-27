@@ -4,6 +4,16 @@
   "image_url": "https://avatars.githubusercontent.com/u/16494335?v=4",
   "links": [
     {
+      "title": "Connect",
+      "url": "https://dotcal.co/zarif/secret",
+      "icon": "calendar"
+    },
+    {
+      "title": "Website",
+      "url": "https://zarif.pro/?ref=links.dev",
+      "icon": "star"
+    },
+    {
       "title": "GitHub",
       "url": "https://github.com/zarifpour",
       "icon": "github"
@@ -12,6 +22,6 @@
       "title": "LinkedIn",
       "url": "https://linkedin.com/in/zarifpour",
       "icon": "linkedin"
-    }
+    },
   ]
 }
