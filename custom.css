@@ -56,10 +56,11 @@ footer {
     text-align: center;
     font-size: 30px;
     padding: 20px;
-    font-family: Rockwell, cursive;
     text-decoration: none;
     color: black;
     border-radius: 0;
+    font-family: Rockwell, cursive;
+    font-family: 'Press Start 2P', cursive;
 }
 
 .ld-custom-button:hover, .ld-custom-button:focus {
