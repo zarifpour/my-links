@@ -45,6 +45,10 @@ footer {
     display: none !important;
 }
 
+.icon {
+    display: none;
+}
+
 .ld-custom-name {
     color: #F5EEBA;
 }
