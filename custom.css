@@ -72,7 +72,7 @@ footer {
 }
 
 .ld-custom-button:before, .ld-custom-button:after {
-    content: '';
+    content: attr(none);
     position: absolute;
     width: 100%;
     height: 100%;
