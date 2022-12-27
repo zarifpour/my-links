@@ -105,7 +105,8 @@ footer {
     -webkit-transition: none;
     -webkit-transition: none;
     transition: none;
-    background: #fef9d8;
+/*     background: #fef9d8; */
+    background: #F6EFC0;
     box-shadow: inset -4px -4px 0px 0px #b79872;
     display: inline-block;
     position: relative;
@@ -162,7 +163,8 @@ footer {
 }
 
 .ld-mt-32 div:nth-child(3) .ld-custom-button:hover, .ld-mt-32 div:nth-child(3) .ld-custom-button:focus {
-    background: #171515;
+/*     background: #171515; */
+    background: #333;
     box-shadow: inset -6px -6px 0px 0px #111;
 }
 
@@ -172,7 +174,8 @@ footer {
 
 /* 4th button (LinkedIn) */
 .ld-mt-32 div:nth-child(4) .ld-custom-button {
-    background: #038CC9;
+/*     background: #038CC9; */
+    background: #0077B5;
     color: white;
     box-shadow: inset -4px -4px 0px 0px #0A4971;
 }
