@@ -5,23 +5,19 @@
   "links": [
     {
       "title": "CONNECT",
-      "url": "https://dotcal.co/zarif/secret",
-      "icon": ""
+      "url": "https://dotcal.co/zarif/secret"
     },
     {
       "title": "WEBSITE",
-      "url": "https://zarif.pro/?ref=links.dev",
-      "icon": ""
+      "url": "https://zarif.pro/?ref=links.dev"
     },
     {
       "title": "GITHUB",
-      "url": "https://github.com/zarifpour",
-      "icon": ""
+      "url": "https://github.com/zarifpour"
     },
     {
       "title": "LINKEDIN",
-      "url": "https://linkedin.com/in/zarifpour",
-      "icon": ""
+      "url": "https://linkedin.com/in/zarifpour"
     }
   ]
 }
