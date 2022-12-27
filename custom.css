@@ -105,7 +105,7 @@ footer {
     -webkit-transition: none;
     -webkit-transition: none;
     transition: none;
-    background: #F6EFC0;
+    background: #fef9d8;
     box-shadow: inset -4px -4px 0px 0px #b79872;
     display: inline-block;
     position: relative;
@@ -120,7 +120,7 @@ footer {
 }
 
 .ld-custom-button:hover, .ld-custom-button:focus {
-    background: #d7c28e;
+    background: #F6EFC0;
     box-shadow: inset -6px -6px 0px 0px #b79872;
 }
 
