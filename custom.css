@@ -161,7 +161,7 @@ footer {
     box-shadow: inset -4px -4px 0px 0px #111111;
 }
 
-.ld-mt-32 div:nth-child(3) .ld-custom-button:hover, .ld-mt-32 > div:nth-child(3) .ld-custom-button:focus {
+.ld-mt-32 div:nth-child(3) .ld-custom-button:hover, .ld-mt-32 div:nth-child(3) .ld-custom-button:focus {
     background: #141414;
     box-shadow: inset -6px -6px 0px 0px #111111;
 }
