@@ -15,7 +15,7 @@ footer {
 }
 
 .ld-custom-button-container {
-    -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
+/*     -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
     -webkit-transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
     -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
     transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
@@ -23,20 +23,21 @@ footer {
     transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
     -webkit-transition: -webkit-transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
     -webkit-transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
-    transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
-}
+    transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3); */
+    border-radius: 0;
+} 
 
-.ld-custom-button-container:hover {
+/* .ld-custom-button-container:hover {
     -webkit-transform: scale(1.02);
     -ms-transform: scale(1.02);
     transform: scale(1.02);
-}
+} */
 
 .ld-custom-background-layer {
     background-color: #7E221F;
 }
 
-.ld-custom-button {
+/* .ld-custom-button {
     -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), -webkit-transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
     background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
     -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
@@ -54,7 +55,7 @@ footer {
     text-decoration: none;
     color: black;
     border-radius: 0;
-}
+} */
 
 .ld-custom-button:hover, .ld-custom-button:focus {
     background: #EAD9AD;
