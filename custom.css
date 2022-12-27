@@ -1,10 +1,17 @@
+footer {
+    display: none !important;
+}
 
 .ld-custom-name {
-    color: black;
+    color: #F5EEBA;
 }
 
 .ld-custom-name:visited {
-    color: black;
+    color: #F5EEBA;
+}
+
+.ld-custom-description {
+    color: #F5EEBA;
 }
 
 .ld-custom-button-container {
@@ -17,8 +24,6 @@
     -webkit-transition: -webkit-transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
     -webkit-transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
     transition: transform 0.15s cubic-bezier(0, 0.2, 0.5, 3);
-    background-color: #2665d6;
-    color: #fff;
 }
 
 .ld-custom-button-container:hover {
@@ -37,5 +42,54 @@
 }
 
 .ld-custom-background-layer {
-    background-color: #fff;
+    background-color: #7E221F;
+}
+
+.ld-custom-button {
+    background: #F6EFC0;
+    box-shadow: inset -4px -4px 0px 0px #b79872;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+	font-family: 'Inter', cursive;
+	text-decoration: none;
+	color: white;
+    border-radius: 0;
+}
+
+.ld-custom-button:hover, .ld-custom-button:focus {
+	background: #EAD9AD;
+	box-shadow: inset -6px -6px 0px 0px #b79872;
+}
+
+.ld-custom-button:active {
+	box-shadow: inset 4px 4px 0px 0px #b79872;
+}
+
+.ld-custom-button:before, .ld-custom-button:after {
+    content: '';
+    position: absolute;
+	width: 100%;
+	height: 100%;
+	box-sizing: content-box;
+}
+
+.ld-custom-button:before {
+	top: -6px;
+	left: 0;
+	border-top: 6px black solid;
+	border-bottom: 6px black solid;
+}
+
+.ld-custom-button:after {
+	left: -6px;
+	top: 0;
+	border-left: 6px black solid;
+	border-right: 6px black solid;
+}
+
+*, *:before, *:after {
+	box-sizing: border-box;
 }
