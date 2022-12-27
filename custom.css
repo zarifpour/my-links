@@ -122,11 +122,11 @@ footer {
 
 .ld-custom-button:hover, .ld-custom-button:focus {
     background: #F6EFC0;
-    box-shadow: inset -6px -6px 0px 0px #b79872;
+    box-shadow: inset -4px -4px 0px 0px #b79872;
 }
 
 .ld-custom-button:active {
-    box-shadow: inset 4px 4px 0px 0px #b79872;
+    box-shadow: inset 3px 3px 0px 0px #b79872;
 }
 
 .ld-custom-button:before, .ld-custom-button:after {
@@ -138,17 +138,17 @@ footer {
 }
 
 .ld-custom-button:before {
-    top: -6px;
+    top: -4px;
     left: 0;
-    border-top: 6px black solid;
-    border-bottom: 6px black solid;
+    border-top: 4px black solid;
+    border-bottom: 4px black solid;
 }
 
 .ld-custom-button:after {
-    left: -6px;
+    left: -4px;
     top: 0;
-    border-left: 6px black solid;
-    border-right: 6px black solid;
+    border-left: 4px black solid;
+    border-right: 4px black solid;
 }
 
 *, *:before, *:after {
@@ -167,12 +167,12 @@ footer {
 /*     background: #171515; */
     background: #333;
 /*     box-shadow: inset -6px -6px 0px 0px #111; */
-    box-shadow: inset -6px -6px 0px 0px #171515;
+    box-shadow: inset -4px -4px 0px 0px #171515;
 }
 
 .ld-mt-32 div:nth-child(3) .ld-custom-button:active {
 /*     box-shadow: inset 4px 4px 0px 0px #111; */
-    box-shadow: inset 4px 4px 0px 0px #171515;
+    box-shadow: inset 3px 3px 0px 0px #171515;
 }
 
 /* 4th button (LinkedIn) */
@@ -185,10 +185,10 @@ footer {
 
 .ld-mt-32 div:nth-child(4) .ld-custom-button:hover, .ld-mt-32 div:nth-child(4) .ld-custom-button:focus {
     background: #0077B5;
-    box-shadow: inset -6px -6px 0px 0px #0A4971;
+    box-shadow: inset -4px -4px 0px 0px #0A4971;
 }
 
 .ld-mt-32 div:nth-child(4) .ld-custom-button:active {
-    box-shadow: inset 4px 4px 0px 0px #0A4971;
+    box-shadow: inset 3px 3px 0px 0px #0A4971;
 }
 
