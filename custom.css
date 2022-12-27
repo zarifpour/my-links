@@ -37,13 +37,13 @@ footer {
     background-color: #7E221F;
 }
 
-/* .ld-custom-button {
-    -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), -webkit-transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
+.ld-custom-button {
+/*     -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), -webkit-transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
     background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
     -webkit-transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
     background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
     transition: box-shadow 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), border-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99), transform 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99),
-    background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99);
+    background-color 0.25s cubic-bezier(0.08, 0.59, 0.29, 0.99); */
     background: #F6EFC0;
     box-shadow: inset -4px -4px 0px 0px #b79872;
     display: inline-block;
@@ -55,7 +55,7 @@ footer {
     text-decoration: none;
     color: black;
     border-radius: 0;
-} */
+}
 
 .ld-custom-button:hover, .ld-custom-button:focus {
     background: #EAD9AD;
