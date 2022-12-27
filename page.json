@@ -6,22 +6,18 @@
     {
       "title": "CONNECT",
       "url": "https://dotcal.co/zarif/secret",
-      "icon": "calendar"
     },
     {
       "title": "WEBSITE",
       "url": "https://zarif.pro/?ref=links.dev",
-      "icon": "star"
     },
     {
       "title": "GITHUB",
       "url": "https://github.com/zarifpour",
-      "icon": "github"
     },
     {
       "title": "LINKEDIN",
       "url": "https://linkedin.com/in/zarifpour",
-      "icon": "linkedin"
     }
   ]
 }
