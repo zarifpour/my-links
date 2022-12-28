@@ -162,12 +162,14 @@ footer {
 }
 
 .ld-mt-32 div:nth-child(1) div.ld-pos-rel a.ld-custom-button:hover, .ld-mt-32 div:nth-child(1) div.ld-pos-rel a.ld-custom-button:focus {
+    color: white;
     background: #92CD41;
     box-shadow: inset -4px -4px 0px 0px #4AA52E;
 }
 
 .ld-mt-32 div:nth-child(1) div.ld-pos-rel a.ld-custom-button:active {
 /*     box-shadow: inset 4px 4px 0px 0px #111; */
+    color: white;
     background: #92CD41;
     box-shadow: inset 3px 3px 0px 0px #4AA52E;
 }
@@ -180,11 +182,13 @@ footer {
 }
 
 .ld-mt-32 div:nth-child(2) div.ld-pos-rel div div a.ld-custom-button:hover, .ld-mt-32 div:nth-child(2) div.ld-pos-rel div div a.ld-custom-button:focus {
+    color: white;
     background: #F7D51D;
     box-shadow: inset -4px -4px 0px 0px #E59400;
 }
 
 .ld-mt-32 div:nth-child(2) div.ld-pos-rel div div a.ld-custom-button:active {
+    color: white;
     box-shadow: inset 3px 3px 0px 0px #E59400;
 }
 
