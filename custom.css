@@ -155,40 +155,82 @@ footer {
     box-sizing: border-box;
 }
 
+/* 1st button (Connect) */
+.ld-mt-32 div:nth-child(1) .ld-custom-button {
+    background: #F6EFC0;
+    box-shadow: inset -4px -4px 0px 0px #b79872;
+}
+
+.ld-mt-32 div:nth-child(1) .ld-custom-button:hover, .ld-mt-32 div:nth-child(1) .ld-custom-button:focus {
+    background: #92CD41;
+    box-shadow: inset -4px -4px 0px 0px #4AA52E;
+}
+
+.ld-mt-32 div:nth-child(1) .ld-custom-button:active {
+/*     box-shadow: inset 4px 4px 0px 0px #111; */
+    background: #92CD41;
+    box-shadow: inset 3px 3px 0px 0px #4AA52E;
+}
+
+/* 2nd button (Website) */
+.ld-mt-32 div:nth-child(2) .ld-custom-button {
+    background: #F6EFC0;
+    box-shadow: inset -4px -4px 0px 0px #b79872;
+}
+
+.ld-mt-32 div:nth-child(2) .ld-custom-button:hover, .ld-mt-32 div:nth-child(2) .ld-custom-button:focus {
+    background: #F7D51D;
+    box-shadow: inset -4px -4px 0px 0px #E59400;
+}
+
+.ld-mt-32 div:nth-child(2) .ld-custom-button:active {
+    box-shadow: inset 3px 3px 0px 0px #E59400;
+}
+
 /* 3rd button (GitHub) */
 .ld-mt-32 div:nth-child(3) .ld-custom-button {
-    background: #333;
-    color: white;
 /*     box-shadow: inset -4px -4px 0px 0px #111; */
-    box-shadow: inset -4px -4px 0px 0px #171515;
+/*     color: white; */
+/*     background: #333; */
+/*     box-shadow: inset -4px -4px 0px 0px #171515; */
+    background: #F6EFC0;
+    box-shadow: inset -4px -4px 0px 0px #b79872;
 }
 
 .ld-mt-32 div:nth-child(3) .ld-custom-button:hover, .ld-mt-32 div:nth-child(3) .ld-custom-button:focus {
 /*     background: #171515; */
-    background: #333;
 /*     box-shadow: inset -6px -6px 0px 0px #111; */
+    color: white;
+    background: #333;
     box-shadow: inset -4px -4px 0px 0px #171515;
 }
 
 .ld-mt-32 div:nth-child(3) .ld-custom-button:active {
 /*     box-shadow: inset 4px 4px 0px 0px #111; */
+    color: white;
+    background: #333;
     box-shadow: inset 3px 3px 0px 0px #171515;
 }
 
 /* 4th button (LinkedIn) */
 .ld-mt-32 div:nth-child(4) .ld-custom-button {
 /*     background: #038CC9; */
-    background: #0077B5;
-    color: white;
-    box-shadow: inset -4px -4px 0px 0px #0A4971;
+/*     color: white; */
+/*     background: #0077B5; */
+/*     box-shadow: inset -4px -4px 0px 0px #0A4971; */
+    background: #F6EFC0;
+    box-shadow: inset -4px -4px 0px 0px #b79872;
 }
 
 .ld-mt-32 div:nth-child(4) .ld-custom-button:hover, .ld-mt-32 div:nth-child(4) .ld-custom-button:focus {
+    color: white;
     background: #0077B5;
     box-shadow: inset -4px -4px 0px 0px #0A4971;
 }
 
 .ld-mt-32 div:nth-child(4) .ld-custom-button:active {
+    color: white;
+    background: #0077B5;
     box-shadow: inset 3px 3px 0px 0px #0A4971;
 }
 
