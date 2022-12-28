@@ -155,6 +155,21 @@ footer {
     box-sizing: border-box;
 }
 
+/* 2nd button (Website) */
+.ld-mt-32 div:nth-child(2) .ld-custom-button {
+    background: #F6EFC0;
+    box-shadow: inset -4px -4px 0px 0px #b79872;
+}
+
+.ld-mt-32 div:nth-child(2) .ld-custom-button:hover, .ld-mt-32 div:nth-child(2) .ld-custom-button:focus {
+    background: #F7D51D;
+    box-shadow: inset -4px -4px 0px 0px #E59400;
+}
+
+.ld-mt-32 div:nth-child(2) .ld-custom-button:active {
+    box-shadow: inset 3px 3px 0px 0px #E59400;
+}
+
 /* 1st button (Connect) */
 .ld-mt-32 div:nth-child(1) .ld-custom-button {
     background: #F6EFC0;
@@ -170,21 +185,6 @@ footer {
 /*     box-shadow: inset 4px 4px 0px 0px #111; */
     background: #92CD41;
     box-shadow: inset 3px 3px 0px 0px #4AA52E;
-}
-
-/* 2nd button (Website) */
-.ld-mt-32 div:nth-child(2) .ld-custom-button {
-    background: #F6EFC0;
-    box-shadow: inset -4px -4px 0px 0px #b79872;
-}
-
-.ld-mt-32 div:nth-child(2) .ld-custom-button:hover, .ld-mt-32 div:nth-child(2) .ld-custom-button:focus {
-    background: #F7D51D;
-    box-shadow: inset -4px -4px 0px 0px #E59400;
-}
-
-.ld-mt-32 div:nth-child(2) .ld-custom-button:active {
-    box-shadow: inset 3px 3px 0px 0px #E59400;
 }
 
 /* 3rd button (GitHub) */
